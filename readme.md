@@ -1,4 +1,4 @@
 # Sign up @
-Supabase
-Vercel
-Github
+- Supabase
+- Vercel
+- Github
