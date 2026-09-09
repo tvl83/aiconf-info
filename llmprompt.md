@@ -9,4 +9,4 @@ this can be a way to prompt. something about coding. something about database. s
 
 use habit stacking principals
 
-make sure this is relevant to what i do for a living: Software Developer
+make sure this is relevant to what i do for a living: *YOUR PROFESSION*
